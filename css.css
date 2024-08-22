@@ -1,0 +1,21 @@
+.font {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.weight {
+  font-weight: bold;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+  flex-direction: column;
+}
+
+button:hover {
+  background-color: #cc8733;
+}
+#input {
+  margin: 25px;
+}
